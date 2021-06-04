@@ -15,7 +15,7 @@
 
 ## Credits and License
 #### License
-WTFPL[https://github.com/akisblack/firefox-css/LICENSE]
+[WTFPL](https://github.com/akisblack/firefox-css/LICENSE)
 
 #### Credits 
-[black7375]https://github.com/black7375] for the icons on the menus
+[black7375](https://github.com/black7375) for the icons on the menus
