@@ -11,7 +11,7 @@
 ## Installation
 1. Go to `about:config` an enable `toolkit.legacyUserProfileCustomizations.stylesheets`
 2. Go to `about:support` and locate `Profile Folder` and click `Open Folder`
-3. Go to `https://raw.githubusercontent.com/akisblack/firefox-css/userChrome.css` press `CTRL + S` and save it to `*Folder you opened in step 2*/chrome`
+3. Go to `https://raw.githubusercontent.com/akisblack/firefox-css/master/userChrome.css` press `CTRL + S` and save it to `*Folder you opened in step 2*/chrome`
 
 ## Credits and License
 #### License
