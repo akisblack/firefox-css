@@ -15,7 +15,7 @@
 
 ## Preview 
 
-[!Preview](https://github.com/akisblack/firefox-css/screenshot.png)
+![Preview](https://github.com/akisblack/firefox-css/screenshot.png)
 
 ## Credits and License
 #### License
