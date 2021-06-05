@@ -9,9 +9,20 @@
 - UI isn't too small or too big
 
 ## Installation
-1. Go to `about:config` an enable `toolkit.legacyUserProfileCustomizations.stylesheets`
-2. Go to `about:support` and locate `Profile Folder` and click `Open Folder`
-3. Go to `https://raw.githubusercontent.com/akisblack/firefox-css/master/userChrome.css` press `CTRL + S` and save it to `*Folder you opened in step 2*/chrome`
+1. Download files
+    - Click the green “Code” button above
+    - Select "Download Zip”
+2. Find your profile directory
+    - Open `about:support` in a new tab
+    - Find the Profile Folder entry and click the Open Folder button
+3. Copy downloaded files
+    - Extract the downloaded zip file
+    - Create a new directory inside your profile directory called `chrome`
+    - Copy the remaining files from the extracted zip-file into previously created the `chrome` directory
+4. Firefox Settings
+    - Go to `about:config` an enable `toolkit.legacyUserProfileCustomizations.stylesheets`
+    - Restart Firefox
+
 
 ## Preview 
 
