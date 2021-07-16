@@ -28,9 +28,6 @@
 
 ![Preview](https://raw.githubusercontent.com/akisblack/firefox-css/master/screenshot.png)
 
-## Credits and License
-#### License
-[WTFPL](https://github.com/akisblack/firefox-css/LICENSE)
-
-#### Credits 
+## Credits
+ 
 [black7375](https://github.com/black7375) for the icons on the menus
