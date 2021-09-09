@@ -1,5 +1,8 @@
-# Firefox CSS
+# Firefox CSS (For Mozilla Firefox 89+)
 ### My personal Firefox CSS configuration
+
+## Archived
+I no longer use this CSS as I've switched to Firefox-UI-Fix which is much better and maintained properly.
 
 ## Imporvements
 - Tabs aren't floating
